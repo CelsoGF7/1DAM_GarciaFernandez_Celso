@@ -26,6 +26,7 @@
 ## Diferencia entre código fuente, código objeto y código ejecutable.
 
 - **Código Fuente**:
+	
 	El *código fuente* es un archivo de texto que contiene el código escrito en 
 	un lenguaje de programación legible por humanos. Este código está escrito en un 
 	lenguaje de programación específico, como C, C++, Java, Python, JavaScript, entre otros.
